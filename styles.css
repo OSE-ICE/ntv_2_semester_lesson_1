@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+html {
+    font-size: 24px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.picturetext {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+    border-bottom: solid 1px black;
+}
+
+.subheader {
+    font-size: 25px;
+    text-align: start;
+}
+
+.maintext {
+    margin: 10px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.paraindent {
+    margin-left: 20px;
+    margin-top: 15px;
+}
